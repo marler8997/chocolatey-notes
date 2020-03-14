@@ -27,6 +27,17 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 # Common Usage
 
 ```
-choco list
+choco search <filter>
+choco install <package-name>
+```
 
+# Packages that interest me
+
+```
+# for reading pdf files, snappier than chrome/IE
+sumatrapdf
+
+# I use the Calc (ExcelClone) program
+# I can save in .fods format for git-friendly spreadsheet files
+libreoffice
 ```
